@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # === CONFIGURE HERE ===
-start_date="2019-07-21"
-end_date="2021-07-10"
+start_date="2021-07-21"
+end_date="2023-07-10"
 total_days=350   # number of random WEEKDAYS in the range
 # ======================
 
